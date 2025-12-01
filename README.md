@@ -12,8 +12,8 @@ Include the steps involved in policy iteration algorithm
 </br>
 
 ## POLICY IMPROVEMENT FUNCTION
-### Name
-### Register Number
+**Name:** Gughan S
+**Register Number:** 212223240043
 ```python
 Include the policy improvement function
 
@@ -25,8 +25,8 @@ Include the policy improvement function
 
 ```
 ## POLICY ITERATION FUNCTION
-### Name
-### Register Number
+**Name:** Gughan S
+**Register Number:** 212223240043
 ```python
 Include the policy iteration function
 
