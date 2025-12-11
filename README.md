@@ -34,8 +34,8 @@ If the policy does not change (π′ = π), then the policy is optimal and the a
 Otherwise, repeat steps 2 and 3.
 
 ## POLICY IMPROVEMENT FUNCTION
-### Name: MUKESH R
-### Register Number: 212223240100
+### Name: GUGHAN S
+### Register Number: 212223240043
 ```
 def policy_improvement(V, P, gamma=1.0):
     Q = np.zeros((len(P), len(P[0])), dtype=np.float64)
